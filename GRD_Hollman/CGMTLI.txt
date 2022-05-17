@@ -1,2 +1,7 @@
-centro de gestion de mercados,logistica y tecnologias de la informacion
+Oferta academica del Centro de Gestión de Mercados, Logística y Tecnologías de la Información
+- Teleinformatica
+- Logistica
+- Mercadeo
+- Industrias creativas
+- Formación complementaria
 
